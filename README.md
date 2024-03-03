@@ -15,7 +15,7 @@
     </header>
     <main>
         <h1>Danilo Novaes de Andrade Santos | WDD 130</h1>
-        <img src="C:\Users\danld\Desktop\wdd130\images\profile" alt="Hello, my name is Danilo Novaes de Andrade Santos", width="200">
+        <img src="images/profile.jpg" alt="Hello, my name is Danilo Novaes de Andrade Santos", width="200">
         <p>Hello, My name is Danilo Novaes de Andrade Santos and I am from Sao Paulo, Brazil. I enjoy cycling and swimming on weekends. I also love to travel and spend time with my family. I currently work at a tech company called GoTo but I have not yet landed a position in software/web development. I am excited to develop new skills and qualify for those positions. </p>
     </main>
     <footer>
